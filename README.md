@@ -1,1 +1,1 @@
-[Program 1 ArrayList and LinkedList]https://github.com/MahimaNayak632/Java/blob/master/program1.png?raw=true
+[Program 1 Arraylist and LinkedList](https://github.com/MahimaNayak632/Java/blob/main/program1.png)
