@@ -6,5 +6,5 @@
 
 [ColorSorter OutputLink](https://github.com/MahimaNayak632/Java/blob/master/ColorSorter.png)
 
-[ClorSublist OutputLink](https://github.com/MahimaNayak632/Java/blob/master/ColorSublist.png)
+[ColorSublist OutputLink](https://github.com/MahimaNayak632/Java/blob/master/ColorSublist.png)
 
