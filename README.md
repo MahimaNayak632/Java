@@ -4,3 +4,5 @@
 
 [Program 1b2 ArrayList outputLink](https://github.com/MahimaNayak632/Java/blob/master/Program1b2.png)
 
+[ColorSorter Output](https://github.com/MahimaNayak632/Java/blob/master/ColorSorter.png)
+
